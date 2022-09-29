@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: 'Jimmy Issa'
+description: Undergraduate student @ Rob Ness lab, University of Toronto
+github:
+  is_project_page: false   <! -- allows title in config file to override title of repository name -->
