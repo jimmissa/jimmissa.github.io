@@ -5,6 +5,7 @@ This is a site I may or may not be developing to help you learn a little more ab
 <!---
 https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet
 https://pages.github.com/themes/
+https://realpython.com/python-yaml/#read-and-write-your-first-yaml-document
 # Title
 ## Subtitle
 
