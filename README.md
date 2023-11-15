@@ -1,6 +1,7 @@
 <img align="right" src="IMG_1356.jpeg" width="200">
 
-This is a site I may or may not be developing to help you learn a little more about me, as well as my ongoing and paste academic work. Presently, I am a member of the [Rob Ness lab](http://ness.bio/).
+Site in (gradual) development. 
+Presently, I am an MSc student cosupervised in the [Rob Ness](http://ness.bio/) and [ANNB](https://annb-lab.github.io/) labs.
 
 <!---
 https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet
