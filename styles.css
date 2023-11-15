@@ -1,5 +1,0 @@
-body {
-  background-image: url("{{ site.background | dna.jpeg }}");
-  background-size: cover;
-  background-position: center;
-}
