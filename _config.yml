@@ -4,3 +4,7 @@ description: Graduate student @ Rob Ness & Alex Nguyen Ba labs, University of To
 github:
   is_project_page: false   <! -- allows title in config file to override title of repository name -->
 background: dna.jpeg
+sass:
+  style: compressed
+include:
+  - style.scss
